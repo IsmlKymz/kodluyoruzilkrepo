@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: purple;
+}
+
+h3{
+    color: #C58940;
+}
+img{
+    weight: 150px;
+    height: 250px;
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
